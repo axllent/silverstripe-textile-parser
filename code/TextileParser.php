@@ -3,6 +3,9 @@
  * Textile Parser for SilverStripe 3+
  * Adds Textile parsing in your templates
  * eg: $MyTextField.Textile
+ *
+ * License: MIT-style license http://opensource.org/licenses/MIT
+ * Authors: Techno Joy development team (www.technojoy.co.nz)
  */
 
 class TextileParser extends Extension {
