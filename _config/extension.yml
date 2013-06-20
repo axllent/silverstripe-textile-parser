@@ -1,0 +1,6 @@
+---
+Name: TextileParser
+---
+StringField:
+  extensions:
+    - TextileParser
