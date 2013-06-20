@@ -14,7 +14,7 @@ class TextileParser extends Extension {
 
 	static $doctype = 'html5'; // html5 || xhtml
 
-	static $use_restricted = true;
+	static $use_restricted = true; // true / false
 
 	public function Textile($link_urls = true) {
 
