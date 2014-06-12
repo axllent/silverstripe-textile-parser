@@ -3,7 +3,7 @@
 	"description": "Textile Parser for SilverStripe 3",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/axllent/silverstripe-textile-parser",
-	"keywords": ["silverstripe", "gridfield", "tweaks"],
+	"keywords": ["silverstripe", "parser"],
 	"license": [
         "The MIT License (MIT)",
         "Custom"
