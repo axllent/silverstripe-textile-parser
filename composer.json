@@ -5,7 +5,7 @@
 	"homepage": "https://github.com/axllent/silverstripe-textile-parser",
 	"keywords": ["silverstripe", "parser"],
 	"license": [
-        "The MIT License (MIT)",
+        "MIT",
         "Custom"
     ],
 	"authors": [
